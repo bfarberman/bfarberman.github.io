@@ -1,11 +1,11 @@
 # Site settings
 author: Brad Farberman
-title: 
+title: Introducing: Notesbook!
 header-img: img/home-bg.png
 email: bfarberman@gmail.com
 copyright_name: Brad Farberman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The App I've Always Wanted
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bfarberman
